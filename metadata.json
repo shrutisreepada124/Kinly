@@ -1,0 +1,10 @@
+{
+  "name": "kinly - Family Health & Allergy Safety",
+  "description": "Smart family nutrition and safety PWA with real-time camera allergen scanner, multi-profile conflict checker, unified meal planner, and care tracker.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
